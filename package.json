@@ -1,0 +1,24 @@
+{
+  "name": "image-search",
+  "version": "1.0.0",
+  "description": "image search api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "7.10.0"
+  },
+  "keywords": [
+    "node",
+    "google",
+    "search",
+    "api"
+  ],
+  "author": "Jonathan Clermont",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}

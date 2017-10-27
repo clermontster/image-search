@@ -1,0 +1,807 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"body",
+				"bodyParser"
+			],
+			[
+				"Event",
+				"EventEmitter"
+			],
+			[
+				"write",
+				"writeWaitingPercent"
+			],
+			[
+				"extrac",
+				"extractSass"
+			],
+			[
+				"server",
+				"serverConfig"
+			],
+			[
+				"Html",
+				"HtmlWebpackPluginConfig"
+			],
+			[
+				"prop",
+				"proptypes"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"store",
+				"storeSchema"
+			],
+			[
+				"print",
+				"printInTwoSeconds"
+			],
+			[
+				"get",
+				"getAccounts"
+			],
+			[
+				"en",
+				"encrypted"
+			],
+			[
+				"enc",
+				"encrypt"
+			],
+			[
+				"mas",
+				"master_password"
+			],
+			[
+				"getA",
+				"getAccounts"
+			],
+			[
+				"st",
+				"stringify"
+			],
+			[
+				"sec",
+				"secretMesssage"
+			],
+			[
+				"face",
+				"facebookAccount"
+			],
+			[
+				"match",
+				"matchedAccount"
+			],
+			[
+				"nod",
+				"node_modules"
+			],
+			[
+				"n",
+				"NavLink"
+			],
+			[
+				"blue",
+				"blue-text"
+			],
+			[
+				"mich",
+				"michelleRogersPritzl-ratioOfWhatisRememberedtoWhatIsReproduced2012"
+			],
+			[
+				"Michell",
+				"michelleRogersPritzl-ratioOfWhatisRememberedtoWhatIsReproduced2012"
+			],
+			[
+				"fig",
+				"figcaption\tTag"
+			],
+			[
+				"React",
+				"ReactComponent"
+			],
+			[
+				"Dom",
+				"DOMNode"
+			],
+			[
+				"comop",
+				"component"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"current",
+				"currentIndex"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"handleCarouselClick",
+				"handleCarouselClickNext"
+			],
+			[
+				"carousel",
+				"carousel-next"
+			],
+			[
+				"on",
+				"onCLickNext"
+			],
+			[
+				"go",
+				"goToNextSlide"
+			],
+			[
+				"prev",
+				"PREV"
+			],
+			[
+				"got",
+				"goToNextSlide"
+			],
+			[
+				"carou",
+				"carousel-prev"
+			],
+			[
+				"lef",
+				"carouselNav-left-btn"
+			],
+			[
+				"js",
+				"js-carousel"
+			],
+			[
+				"carous",
+				"carouselNav-left-btn"
+			],
+			[
+				"font",
+				"font-variant"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"is_nu",
+				"is_numeric"
+			],
+			[
+				"in",
+				"integer"
+			],
+			[
+				"th",
+				"third"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"remove",
+				"removeGreen"
+			],
+			[
+				"adjust",
+				"adjustTimer"
+			],
+			[
+				"block",
+				"blockquote\tTag"
+			],
+			[
+				"num",
+				"numArray"
+			],
+			[
+				"bg",
+				"background-color"
+			],
+			[
+				"p",
+				"pointer"
+			],
+			[
+				"LOAL",
+				"localWeather"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"which",
+				"whichNav"
+			],
+			[
+				"window",
+				"windowSize"
+			],
+			[
+				"resize",
+				"resizeTimer"
+			],
+			[
+				"clear",
+				"clearTimeout"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"d",
+				"text-decoration"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 331,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"babe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: r",
+				"Package Control: Add Repository"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 505.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"ls -la",
+			"node",
+			"pwd",
+			"node ch3_node_core",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Jonnie/Sites/image-search"
+	],
+	"file_history":
+	[
+		"/Users/Jonnie/Sites/url-shortener/.gitignore",
+		"/Users/Jonnie/Sites/url-shortener/package.json",
+		"/Users/Jonnie/Sites/url-shortener/index.js",
+		"/Users/Jonnie/Sites/url-shortener/routes/newRoute.js",
+		"/Users/Jonnie/Sites/url-shortener/routes/indexRoute.js",
+		"/Users/Jonnie/Sites/url-shortener/new.js",
+		"/Users/Jonnie/Sites/request-header/index.js",
+		"/Users/Jonnie/Sites/request-header/package.json",
+		"/Users/Jonnie/Sites/request-header/.gitignore",
+		"/Users/Jonnie/Sites/timestamp-app/src/index.js",
+		"/Users/Jonnie/Sites/timestamp-app/Todo.md",
+		"/Users/Jonnie/Sites/timestamp-app/package.json",
+		"/Users/Jonnie/Sites/timestamp-app/index.js",
+		"/Users/Jonnie/Sites/timestamp-app/Procfile",
+		"/Users/Jonnie/Sites/timestamp-app/.gitignore",
+		"/Users/Jonnie/Sites/lynda-node/public/socketio/js/main.js",
+		"/Users/Jonnie/Sites/lynda-node/public/socketio/sio-server.js",
+		"/Users/Jonnie/Sites/lynda-node/realtime_web/ch1_storage_api_md",
+		"/Users/Jonnie/Sites/lynda-node/realtime_web/ch1_canvas_api.md",
+		"/Users/Jonnie/Sites/lynda-node/public/ch9/ws.js",
+		"/Users/Jonnie/Sites/lynda-node/public/ch9/ws-client.js",
+		"/Users/Jonnie/Sites/lynda-node/public/ch9/package.json",
+		"/Users/Jonnie/Sites/lynda-node/public/ch9/index.html",
+		"/Users/Jonnie/Sites/lynda-node/public/js/dictionary.js",
+		"/Users/Jonnie/Sites/lynda-node/public/ch8/index.html",
+		"/Users/Jonnie/Sites/lynda-node/ch8_intro_to_express.js",
+		"/Users/Jonnie/Sites/lynda-node/ch9_web_sockets.js",
+		"/Users/Jonnie/Sites/lynda-node/Ex_Files_Nodejs_EssT/Exercise Files/Ch09/09_01/finished/ws-client.js",
+		"/Users/Jonnie/Sites/lynda-node/package.json",
+		"/Users/Jonnie/Sites/lynda-node/public/index.html",
+		"/Users/Jonnie/Sites/lynda-node/public/style.css",
+		"/Users/Jonnie/Sites/lynda-node/Ex_Files_Nodejs_EssT/Exercise Files/Ch08/08_04/finished/public/js/dictionary.js",
+		"/Users/Jonnie/Sites/lynda-node/Ex_Files_Nodejs_EssT/Exercise Files/Ch08/08_04/finished/public/index.html",
+		"/Users/Jonnie/Sites/lynda-node/public/js/jquery.min.js",
+		"/Users/Jonnie/Sites/lynda-node/ch6_request.js",
+		"/Users/Jonnie/Sites/lynda-node/Ex_Files_Nodejs_EssT/Exercise Files/Ch08/08_02/finished/package.json",
+		"/Users/Jonnie/Sites/lynda-node/ch5_streams.js",
+		"/Users/Jonnie/Sites/lynda-node/ch5_write_streams.js",
+		"/Users/Jonnie/Sites/lynda-node/ch5_remove_directory.js",
+		"/Users/Jonnie/Sites/lynda-node/assets/logs/logA.md",
+		"/Users/Jonnie/Sites/lynda-node/assets/logs/logB.md",
+		"/Users/Jonnie/Sites/lynda-node/ch5_reading_files.js",
+		"/Users/Jonnie/Sites/lynda-node/ch5_directory.js",
+		"/Users/Jonnie/Sites/lynda-node/rename.js",
+		"/Users/Jonnie/Sites/lynda-node/remove.js",
+		"/Users/Jonnie/Sites/lynda-node/lib/config.json",
+		"/Users/Jonnie/Sites/lynda-node/lib/notes.md",
+		"/Users/Jonnie/Sites/lynda-node/lib/config.js",
+		"/Users/Jonnie/Sites/lynda-node/ch5_writing_files.js",
+		"/Users/Jonnie/Sites/lynda-node/notes.md",
+		"/Users/Jonnie/Sites/lynda-node/ch5_list_directories.js",
+		"/Users/Jonnie/Sites/lynda-node/ch4_exec.js",
+		"/Users/Jonnie/Sites/lynda-node/ch4_spawn.js",
+		"/Users/Jonnie/Sites/lynda-node/ch4_event_emitter.js",
+		"/Users/Jonnie/Sites/lynda-node/ch4_module_exports.js",
+		"/Users/Jonnie/Sites/lynda-node/lib/Person.js",
+		"/Users/Jonnie/Sites/lynda-node/ch4_readline.js",
+		"/Users/Jonnie/Sites/lynda-node/ch3_node_core.js",
+		"/Users/Jonnie/Sites/lynda-node/timing_functions.js",
+		"/Users/Jonnie/Sites/svg-learning/server.js",
+		"/Users/Jonnie/Sites/svg-learning/mo101.html",
+		"/Users/Jonnie/Sites/svg-learning/mo101.js",
+		"/Users/Jonnie/Sites/svg-learning/public/mo101.js",
+		"/Users/Jonnie/Sites/svg-learning/node_modules/mo-js/build/mo.js",
+		"/Users/Jonnie/Sites/svg-learning/node_modules/mo-js/build/mo.min.js",
+		"/Users/Jonnie/Sites/svg-learning/package.json",
+		"/Users/Jonnie/Sites/svg-learning/magnifying_glass.html",
+		"/Users/Jonnie/Sites/bash_learning/Lynda.com Learning Bash Scripting",
+		"/Users/Jonnie/Sites/frontendmasters-svganimation/master-timeline/js/index.js",
+		"/Users/Jonnie/Sites/frontendmasters-svganimation/master-timeline/index.html",
+		"/Users/Jonnie/Sites/webpack-learning/src/components/app.jsx",
+		"/Users/Jonnie/Sites/webpack-learning/src/client.js",
+		"/Users/Jonnie/Sites/webpack-learning/webpack.config.js",
+		"/Users/Jonnie/Sites/webpack-learning/package.json",
+		"/Users/Jonnie/Sites/webpack-learning/.babelrc",
+		"/Users/Jonnie/Sites/webpack-learning/index.html",
+		"/Users/Jonnie/Sites/webpack-learning/src/index.html",
+		"/Users/Jonnie/Sites/webpack-learning/dist/index.html",
+		"/Users/Jonnie/Sites/webpack-learning/src/server.js",
+		"/Users/Jonnie/Sites/webpack-learning/node_modules/react-dom/dist/react-dom.js",
+		"/Users/Jonnie/Sites/webpack-learning/public/index.html",
+		"/Users/Jonnie/Sites/webpack-learning/index.js",
+		"/Users/Jonnie/Sites/webpack-learning/src/index.js",
+		"/Users/Jonnie/Sites/webpack-learning/public/public/bundle.js",
+		"/Users/Jonnie/Sites/webpack-learning/public/bundle.js",
+		"/Users/Jonnie/Sites/webpack-learning/src/app.js",
+		"/Users/Jonnie/Sites/webpack-learning/public/cbundle.js",
+		"/Users/Jonnie/Downloads/icomoon_3_icons/symbol-defs.svg",
+		"/Users/Jonnie/Downloads/icomoon_3_icons/SVG/stats-bars2.svg",
+		"/Users/Jonnie/Sites/event-finder/src/index.js",
+		"/Users/Jonnie/Sites/event-finder/src/App.js",
+		"/Users/Jonnie/Sites/event-finder/src/styles/_header.scss",
+		"/Users/Jonnie/Sites/event-finder/src/components/Image.jsx",
+		"/Users/Jonnie/Sites/event-finder/src/components/header.jsx",
+		"/Users/Jonnie/Sites/event-finder/package.json",
+		"/Users/Jonnie/Sites/event-finder/src/styles/main.scss",
+		"/Users/Jonnie/Sites/event-finder/src/App.scss",
+		"/Users/Jonnie/Sites/event-finder/node_modules/react-scripts/scripts/start.js",
+		"/Users/Jonnie/Sites/event-finder/public/index.html",
+		"/Users/Jonnie/Sites/event-finder/src/index.css",
+		"/Users/Jonnie/Sites/Learn-Node/project/views/mixins/_storeForm.pug",
+		"/Users/Jonnie/Sites/Learn-Node/project/models/Store.js",
+		"/Users/Jonnie/Sites/Learn-Node/project/routes/index.js",
+		"/Users/Jonnie/Sites/Learn-Node/project/views/layout.pug",
+		"/Users/Jonnie/Sites/Learn-Node/project/views/stores.pug",
+		"/Users/Jonnie/Sites/Learn-Node/Notes/19. Routing and Templating Single Stores.html",
+		"/Users/Jonnie/Sites/Learn-Node/project/controllers/storeController.js",
+		"/Users/Jonnie/Sites/Learn-Node/project/views/editStore.pug",
+		"/Users/Jonnie/Sites/Learn-Node/project/views/store.pug",
+		"/Users/Jonnie/Sites/Learn-Node/project/helpers.js",
+		"/Users/Jonnie/Sites/Learn-Node/project/views/index.pug",
+		"/Users/Jonnie/Sites/Learn-Node/Notes/18. Uploading and Resizing Images with Middleware",
+		"/Users/Jonnie/Sites/Learn-Node/project/start.js",
+		"/Users/Jonnie/Sites/Learn-Node/project/webpack.config.js",
+		"/Users/Jonnie/Sites/Learn-Node/project/package.json",
+		"/Users/Jonnie/Sites/Codepen Sandbox/neonSign.html",
+		"/Users/Jonnie/Sites/Learn-Node/Notes/17 - Quick Data Visualization.html",
+		"/Users/Jonnie/Sites/Learn-Node/project/public/javascripts/delicious-app.js",
+		"/Users/Jonnie/Sites/Learn-Node/project/public/javascripts/modules/autocomplete.js",
+		"/Users/Jonnie/Sites/Learn-Node/project/controllers/.gitkeep",
+		"/Users/Jonnie/Sites/Learn-Node/project/variables.env",
+		"/Users/Jonnie/Sites/Learn-Node/stepped-solutions/17/public/javascripts/modules/autocomplete.js",
+		"/Users/Jonnie/Sites/Learn-Node/project/handlers/errorHandlers.js",
+		"/Users/Jonnie/Sites/Learn-Node/project/app.js",
+		"/Users/Jonnie/Sites/Learn-Node/project/public/dist/App.bundle.js",
+		"/Users/Jonnie/Sites/Learn-Node/Notes/15 - Saving Lat and Long for each store",
+		"/Users/Jonnie/Sites/Learn-Node/Notes/16 - Geocoding Data with Google Maps.html",
+		"/Users/Jonnie/Sites/Learn-Node/project/public/javascripts/modules/bling.js"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/Jonnie/Sites/",
+			"/Users/Jonnie/Sites/gatsby-starter-blog",
+			"<current file>",
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"urlToshorten",
+			"\"\n",
+			");",
+			"link",
+			"result",
+			"sys",
+			"');",
+			");",
+			"export",
+			"');\t",
+			"found",
+			"\",",
+			"30",
+			"render",
+			"Header",
+			"google",
+			"';",
+			"router",
+			"db",
+			"router.get('/', storeController.getStores);\n",
+			"homePage",
+			");",
+			"encryptedMessage",
+			"function createAccount() {\n\n}",
+			"\t\t\t\tconsole.log(list[i]);\n",
+			"bundle.jsx",
+			"')''",
+			"\";\n",
+			"webpack",
+			"max-width: 960px;",
+			"max-width",
+			"---",
+			"sarah",
+			"jennifer",
+			"jennfier",
+			"joe wolin",
+			"stilgoe",
+			"dan estabrook",
+			"anna",
+			"#6",
+			"self and alex",
+			"advanced topics",
+			"[]",
+			"h3",
+			"border-box",
+			"border:",
+			"border",
+			"background-color",
+			"handle-password",
+			"handle",
+			"placeholder",
+			"bottom",
+			"currentslide",
+			"hello",
+			"prev",
+			"carousel",
+			"$carousel",
+			"$carousel =",
+			"active_slide_class",
+			"active_slide_class\n",
+			"active_slide_class",
+			"activeslideclass",
+			"$",
+			"handleCarouselMouseLeave",
+			"onCarouselMouseLeave",
+			"$carousel",
+			"border: 1px solid red",
+			"border:",
+			"red",
+			"font",
+			"|",
+			"border",
+			"build/",
+			"baird",
+			"daniel",
+			"wrap",
+			"visiting artist 2015",
+			"3",
+			"grundbergBio",
+			"andy grundberg",
+			"danielle",
+			"hamzeh",
+			"mfaFacultyBios",
+			"wrap",
+			"estabrookBio",
+			"visitingArtists",
+			"visiting ",
+			"wrap",
+			"wrapping",
+			"alternative",
+			"facilities",
+			"scroll",
+			"img{",
+			"img{}",
+			"img",
+			"anne",
+			"anne eder",
+			"tabitha",
+			"anna",
+			"michelle",
+			"michel",
+			"grading",
+			"jess",
+			"img",
+			"danielle",
+			"img",
+			"../images",
+			"img",
+			"colspan",
+			"studiexclusively",
+			"list of",
+			"visiting artists",
+			"visiting artist list",
+			"degree re",
+			"program design",
+			"course descr",
+			"tabitha ",
+			"visiting artist overview",
+			"visiting artist over",
+			"golberg",
+			"golbergBio",
+			"roy flukinger",
+			"blurbs",
+			"hamzeh",
+			"tommy",
+			"james",
+			"graduate thesis seminar",
+			"thesis seminar"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			";\n",
+			"",
+			"&amp;",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 331,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								152,
+								152
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JSON (JavaScriptNext).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "image-search.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"christopherjames-studio.sublime-project"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Sites/event-finder/event-finder.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 67.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 266.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
